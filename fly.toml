@@ -1,4 +1,4 @@
-app = "dark-wind-4400"
+app = "adi-stage-demo"
 
 kill_signal = "SIGINT"
 kill_timeout = 5
